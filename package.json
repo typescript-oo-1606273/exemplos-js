@@ -1,0 +1,16 @@
+{
+  "name": "exemplos",
+  "version": "1.0.0",
+  "description": "- Estruturas básicas da linguagem   - Tipos primitivos   - Objeto   - Arrays   - Funções - Criando um projeto com o npm   - npm init -y   - npm install chalk (estiliza a saída do console)",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1"
+  }
+}
